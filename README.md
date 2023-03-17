@@ -41,7 +41,7 @@ u  / |
         ||  |  u projected onto v
         ||__|
 ```
-The length of the projection of u onto v is ||proj_u,v|| = ||u||cosθ, which is always less than or equal to ||u||. Therefore, the length of the projection of u onto v is always less than or equal to the length of v, and the Cauchy-Schwarz inequality holds.
+The length of the projection of u onto v is `||proj_u,v|| = ||u||cosθ`, which is always less than or equal to `||u||`. Therefore, the length of the projection of u onto v is always less than or equal to the length of v, and the Cauchy-Schwarz inequality holds.
 
 # Why is the Cauchy-Schwarz inequality important?
 This important geometric fact shows that for Hilbert spaces, the equality occurs if and only if `|v>` and `|u>` are linearly related. `|v> = z|u>` or `|u> = z|v>`, for some scalar `z`.
